@@ -56,6 +56,7 @@
 
 </div>
 
+<div align="center">
 ![파이썬부셔](1.png)
 
 
