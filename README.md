@@ -40,7 +40,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sunny9612)](https://solved.ac/sunny9612/)
 
-![haelim12's github stats](https://github-readme-stats-4i9x.vercel.app/api?username=haelim12&show_icons=true&theme=dark)
+![haelim12's github stats](https://github-readme-stats-4i9x.vercel.app/api?username=haelim12&show_icons=true&theme=radical)
 <br/>
 
 ## **📝자격증**
