@@ -11,15 +11,14 @@
 ## 🐣
 
 🎈 자바 마스터가 되기 위해 화이팅 해보겠습니다.
-
-🌱 스프링 마스터도 돼야지.
+👊🏻 리액트 뿌셔
 
 <br/>
 <br/>
 
 # **⚒️Tech Stack⚒️**
 
-## **Languages**
+## ***Skills***
 ![JAVA](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -37,8 +36,10 @@
 
 <div align="center">
 
-## **Tools**
+## ***Tools***
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+
 
 <br/>
 
